@@ -1,0 +1,23 @@
+{
+  "name": "shout",
+  "version": "1.0.0",
+  "description": "Send messages to other users in realtime",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Andy Rutherford",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.1.2"
+  }
+}
