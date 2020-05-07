@@ -10,7 +10,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com/) and [
 
 ```sh
 # Clone this repository
-$ git clone https://github.com/andyrutherford/shout-chat-app.git
+$ git clone https://github.com/andyrutherford/shout-app.git
 
 # Go into the repository
 $ cd
